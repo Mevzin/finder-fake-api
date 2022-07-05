@@ -1,0 +1,1062 @@
+{
+  "brands": [
+    {
+      "id": 0,
+      "name": "Audi"
+    },
+    {
+      "id": 1,
+      "name": "Aston Martin"
+    },
+    {
+      "id": 2,
+      "name": "BMW"
+    },
+    {
+      "id": 3,
+      "name": "Mercedes Benz"
+    },
+    {
+      "id": 4,
+      "name": "Lexus"
+    },
+    {
+      "id": 5,
+      "name": "Mitsubishi"
+    },
+    {
+      "id": 6,
+      "name": "Mazda"
+    },
+    {
+      "id": 7,
+      "name": "Hyundai"
+    },
+    {
+      "id": 8,
+      "name": "Toyota"
+    },
+    {
+      "id": 9,
+      "name": "Porsche"
+    },
+    {
+      "id": 10,
+      "name": "Ferrari"
+    },
+    {
+      "id": 11,
+      "name": "Jaguar"
+    },
+    {
+      "id": 12,
+      "name": "Chevrolet"
+    },
+    {
+      "id": 13,
+      "name": "Ford"
+    },
+    {
+      "id": 14,
+      "name": "Fiat"
+    },
+    {
+      "id": 15,
+      "name": "Volkswagen"
+    },
+    {
+      "id": 16,
+      "name": "Dodge"
+    },
+    {
+      "id": 17,
+      "name": "Kia"
+    },
+    {
+      "id": 18,
+      "name": "Land Rover"
+    },
+    {
+      "id": 19,
+      "name": "Nissan"
+    },
+    {
+      "id": 20,
+      "name": "Subaru"
+    },
+    {
+      "id": 21,
+      "name": "Lamborghini"
+    },
+    {
+      "id": 22,
+      "name": "Volvo"
+    },
+    {
+      "id": 23,
+      "name": "Honda"
+    },
+    {
+      "id": 24,
+      "name": "Peugeot"
+    }
+  ],
+  "condition": [
+    {
+      "id": 0,
+      "label": "Novo"
+    },
+    {
+      "id": 1,
+      "label": "Usado"
+    }
+  ],
+  "colors": [
+    {
+      "id": 0,
+      "value": "Branco"
+    },
+    {
+      "id": 1,
+      "value": "Preto"
+    },
+    {
+      "id": 2,
+      "value": "Prata"
+    },
+    {
+      "id": 3,
+      "value": "Vermelho"
+    },
+    {
+      "id": 4,
+      "value": "Vinho"
+    },
+    {
+      "id": 5,
+      "value": "Chumbo"
+    },
+    {
+      "id": 6,
+      "value": "Marrom"
+    },
+    {
+      "id": 7,
+      "value": "Amarelo"
+    },
+    {
+      "id": 8,
+      "value": "Verde"
+    },
+    {
+      "id": 9,
+      "value": "Cinza"
+    },
+    {
+      "id": 10,
+      "value": "Ciano"
+    },
+    {
+      "id": 11,
+      "value": "Céu Azul"
+    }
+  ],
+  "fuel": [
+    {
+      "id": 0,
+      "label": "Gasolina"
+    },
+    {
+      "id": 1,
+      "label": "Álcool"
+    },
+    {
+      "id": 3,
+      "label": "Diesel"
+    },
+    {
+      "id": 4,
+      "label": "Flex"
+    },
+    {
+      "id": 5,
+      "label": "GNV"
+    },
+    {
+      "id": 6,
+      "label": "Elétrico"
+    },
+    {
+      "id": 7,
+      "label": "Híbrido"
+    }
+  ],
+  "mileage": [
+    {
+      "id": 0,
+      "value": "0km"
+    },
+    {
+      "id": 1,
+      "value": "até 10.000 km"
+    },
+    {
+      "id": 2,
+      "value": "até 20.000 km"
+    },
+    {
+      "id": 3,
+      "value": "até 30.000 km"
+    },
+    {
+      "id": 4,
+      "value": "acima 40.000 km"
+    }
+  ],
+  "carType": [
+    {
+      "id": 0,
+      "value": "Sedan"
+    },
+    {
+      "id": 1,
+      "value": "SUV"
+    },
+    {
+      "id": 2,
+      "value": "Wagon"
+    },
+    {
+      "id": 3,
+      "value": "Crossover"
+    },
+    {
+      "id": 4,
+      "value": "Coupe"
+    },
+    {
+      "id": 5,
+      "value": "Pickup"
+    },
+    {
+      "id": 6,
+      "value": "Sport Coupe"
+    },
+    {
+      "id": 7,
+      "value": "Compact"
+    },
+    {
+      "id": 8,
+      "value": "Convertible"
+    },
+    {
+      "id": 9,
+      "value": "Family MPV"
+    }
+  ],
+  "transmission": [
+    {
+      "id": 0,
+      "value": "Manual"
+    },
+    {
+      "id": 1,
+      "value": "Semi-automático"
+    },
+    {
+      "id": 2,
+      "value": "Automático"
+    }
+  ],
+  "additional": [
+    {
+      "id": 0,
+      "value": "Teto solar"
+    },
+    {
+      "id": 1,
+      "value": "Freio ABS"
+    },
+    {
+      "id": 2,
+      "value": "Air Bags"
+    },
+    {
+      "id": 3,
+      "value": "Kit Multimídia"
+    },
+    {
+      "id": 4,
+      "value": "Ar Condicionado"
+    },
+    {
+      "id": 5,
+      "value": "Banco de couro"
+    },
+    {
+      "id": 5,
+      "value": "Rodas em liga leve"
+    }
+  ],
+  "locale": [
+    {
+      "id": 0,
+      "value": "São Paulo"
+    },
+    {
+      "id": 1,
+      "value": "Rio de Janeiro"
+    },
+    {
+      "id": 2,
+      "value": "Minas Gerais"
+    },
+    {
+      "id": 3,
+      "value": "Rio Grande do Sul"
+    }
+  ],
+  "carModel": [
+    {
+      "id": 0,
+      "value": "AWD/4WD"
+    },
+    {
+      "id": 1,
+      "value": "Front Wheel Drive"
+    },
+    {
+      "id": 2,
+      "value": "Rear Wheel Drive"
+    }
+  ],
+  "adverts": [
+    {
+      "id": 0,
+      "model": "Uno",
+      "version": "Vivace",
+      "brand": 14,
+      "condition": 1,
+      "certified": false,
+      "location": 0,
+      "price": 41999,
+      "year": 2022,
+      "description": "Fiat uno...",
+      "mileage": 69764,
+      "carType": 2,
+      "color": "Branco",
+      "photos": [
+        "https://cdn.motor1.com/images/mgl/2NO4RB/s1/visual-do-fiat-uno-ciao-traz-detalhes-na-lateral.jpg",
+        "https://cdn.motor1.com/images/mgl/P3GB6r/s1/visual-do-fiat-uno-ciao-traz-emblema-na-traseira.jpg",
+        "https://cdn.motor1.com/images/mgl/9mZ81X/s1/serie-especial-fiat-uno-ciao.jpg",
+        "https://cdn.motor1.com/images/mgl/W81KR6/s1/painel-do-fiat-uno-ciao-2021.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4]
+    },
+    {
+      "id": 1,
+      "model": "Civic",
+      "version": "EXL",
+      "condition": 0,
+      "certified": true,
+      "location": 0,
+      "brand": 23,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": 0,
+      "color": 0,
+      "photos": [
+        "https://cdn.motor1.com/images/mgl/Gxe7b/s1/2022-honda-civic-mugen-front-view.jpg",
+        "https://cdn.motor1.com/images/mgl/RGK8x/s1/2022-honda-civic-mugen-rear-view.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 2,
+      "model": "City",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://revistacarro.com.br/wp-content/uploads/2021/09/novo-honda-city-2022_1.jpg",
+        "https://revistacarro.com.br/wp-content/uploads/2021/09/novo-honda-city-2022_2.jpg"
+
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 3,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 4,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 5,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 6,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 7,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 8,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 9,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 10,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 11,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 12,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 13,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 14,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 15,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 16,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 17,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 18,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 19,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 20,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 21,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 22,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 23,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 24,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 25,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 26,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 27,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 28,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 29,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 30,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 31,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 32,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 33,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 34,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    },
+    {
+      "id": 35,
+      "model": "Honda Civic",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 1,
+      "year": 2022,
+      "price": 137.608,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 0,
+      "carType": "Coupe",
+      "color": "Preto",
+      "photos": [
+        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+      ],
+      "additional": [0, 1],
+      "fuel": [0, 1, 4, 6, 7]
+    }
+  ]
+}
