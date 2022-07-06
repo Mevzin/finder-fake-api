@@ -2,113 +2,113 @@
   "brands": [
     {
       "id": 0,
-      "name": "Audi"
+      "value": "Audi"
     },
     {
       "id": 1,
-      "name": "Aston Martin"
+      "value": "Aston Martin"
     },
     {
       "id": 2,
-      "name": "BMW"
+      "value": "BMW"
     },
     {
       "id": 3,
-      "name": "Mercedes Benz"
+      "value": "Mercedes Benz"
     },
     {
       "id": 4,
-      "name": "Lexus"
+      "value": "Lexus"
     },
     {
       "id": 5,
-      "name": "Mitsubishi"
+      "value": "Mitsubishi"
     },
     {
       "id": 6,
-      "name": "Mazda"
+      "value": "Mazda"
     },
     {
       "id": 7,
-      "name": "Hyundai"
+      "value": "Hyundai"
     },
     {
       "id": 8,
-      "name": "Toyota"
+      "value": "Toyota"
     },
     {
       "id": 9,
-      "name": "Porsche"
+      "value": "Porsche"
     },
     {
       "id": 10,
-      "name": "Ferrari"
+      "value": "Ferrari"
     },
     {
       "id": 11,
-      "name": "Jaguar"
+      "value": "Jaguar"
     },
     {
       "id": 12,
-      "name": "Chevrolet"
+      "value": "Chevrolet"
     },
     {
       "id": 13,
-      "name": "Ford"
+      "value": "Ford"
     },
     {
       "id": 14,
-      "name": "Fiat"
+      "value": "Fiat"
     },
     {
       "id": 15,
-      "name": "Volkswagen"
+      "value": "Volkswagen"
     },
     {
       "id": 16,
-      "name": "Dodge"
+      "value": "Dodge"
     },
     {
       "id": 17,
-      "name": "Kia"
+      "value": "Kia"
     },
     {
       "id": 18,
-      "name": "Land Rover"
+      "value": "Land Rover"
     },
     {
       "id": 19,
-      "name": "Nissan"
+      "value": "Nissan"
     },
     {
       "id": 20,
-      "name": "Subaru"
+      "value": "Subaru"
     },
     {
       "id": 21,
-      "name": "Lamborghini"
+      "value": "Lamborghini"
     },
     {
       "id": 22,
-      "name": "Volvo"
+      "value": "Volvo"
     },
     {
       "id": 23,
-      "name": "Honda"
+      "value": "Honda"
     },
     {
       "id": 24,
-      "name": "Peugeot"
+      "value": "Peugeot"
     }
   ],
   "condition": [
     {
       "id": 0,
-      "label": "Novo"
+      "value": "Novo"
     },
     {
       "id": 1,
-      "label": "Usado"
+      "value": "Usado"
     }
   ],
   "colors": [
@@ -161,34 +161,72 @@
       "value": "Céu Azul"
     }
   ],
+  "year": [
+    {
+      "id": 2014,
+      "value": 2014
+    },
+    {
+      "id": 2015,
+      "value": 2015
+    },
+    {
+      "id": 2016,
+      "value": 2016
+    },
+    {
+      "id": 2017,
+      "value": 2017
+    },
+    {
+      "id": 2018,
+      "value": 2018
+    },
+    {
+      "id": 2019,
+      "value": 2019
+    },
+    {
+      "id": 2020,
+      "value": 2020
+    },
+    {
+      "id": 2021,
+      "value": 2021
+    },
+    {
+      "id": 2022,
+      "value": 2022
+    }
+  ],
   "fuel": [
     {
       "id": 0,
-      "label": "Gasolina"
+      "value": "Gasolina"
     },
     {
       "id": 1,
-      "label": "Álcool"
+      "value": "Álcool"
+    },
+    {
+      "id": 2,
+      "value": "Diesel"
     },
     {
       "id": 3,
-      "label": "Diesel"
+      "value": "Flex"
     },
     {
       "id": 4,
-      "label": "Flex"
+      "value": "GNV"
     },
     {
       "id": 5,
-      "label": "GNV"
+      "value": "Elétrico"
     },
     {
       "id": 6,
-      "label": "Elétrico"
-    },
-    {
-      "id": 7,
-      "label": "Híbrido"
+      "value": "Híbrido"
     }
   ],
   "mileage": [
@@ -295,7 +333,7 @@
       "value": "Banco de couro"
     },
     {
-      "id": 5,
+      "id": 6,
       "value": "Rodas em liga leve"
     }
   ],
@@ -345,7 +383,7 @@
       "description": "Fiat uno...",
       "mileage": 69764,
       "carType": 2,
-      "color": "Branco",
+      "color": 9,
       "photos": [
         "https://cdn.motor1.com/images/mgl/2NO4RB/s1/visual-do-fiat-uno-ciao-traz-detalhes-na-lateral.jpg",
         "https://cdn.motor1.com/images/mgl/P3GB6r/s1/visual-do-fiat-uno-ciao-traz-emblema-na-traseira.jpg",
@@ -353,7 +391,7 @@
         "https://cdn.motor1.com/images/mgl/W81KR6/s1/painel-do-fiat-uno-ciao-2021.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4]
+      "fuel": [3, 0, 1]
     },
     {
       "id": 1,
@@ -374,7 +412,7 @@
         "https://cdn.motor1.com/images/mgl/RGK8x/s1/2022-honda-civic-mugen-rear-view.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
+      "fuel": [3, 0, 1]
     },
     {
       "id": 2,
@@ -383,380 +421,269 @@
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 1,
+      "brand": 23,
       "year": 2022,
       "price": 137.608,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
       "mileage": 0,
       "carType": "Coupe",
-      "color": "Preto",
+      "color": 9,
       "photos": [
         "https://revistacarro.com.br/wp-content/uploads/2021/09/novo-honda-city-2022_1.jpg",
         "https://revistacarro.com.br/wp-content/uploads/2021/09/novo-honda-city-2022_2.jpg"
-
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
+      "fuel": [6, 7]
     },
     {
       "id": 3,
-      "model": "Honda Civic",
+      "model": "A4 PRESTIGE 2.0 TFSI",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
+      "brand": 0,
+      "year": 2021,
+      "price": 248608,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
+      "mileage": 2300,
+      "carType": 0,
+      "color": 1,
       "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/202242515454630.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202242515451330.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202242515462730.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
+      "fuel": [6, 7]
     },
     {
       "id": 4,
-      "model": "Honda Civic",
+      "model": "A4 2.4 V6",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
+      "brand": 0,
+      "year": 2015,
+      "price": 27000,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
+      "mileage": 102000,
+      "carType": 0,
+      "color": 2,
       "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/20224131754345.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224131763845.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/2022413177745.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224131774345.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
+      "fuel": [6, 7]
     },
     {
       "id": 5,
-      "model": "Honda Civic",
+      "model": "A3 SEDAN AMBIENTE 1.4 TFSI",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
+      "brand": 0,
+      "year": 2018,
+      "price": 122500,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
       "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
+      "carType": 0,
+      "color": 11,
       "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/202242222311957.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202242222314157.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202242222315057.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224222232457.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
+      "fuel": [6, 7]
     },
     {
       "id": 6,
-      "model": "Honda Civic",
+      "model": "Q3 PRESTIGE PLUS 1.4 TFSI",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
+      "brand": 0,
+      "year": 2019,
+      "price": 162900,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
+      "mileage": 31600,
+      "carType": 1,
+      "color": 2,
       "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/2022471735814.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224717351414.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224717351914.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224717352514.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
+      "fuel": [6, 7]
     },
     {
       "id": 7,
-      "model": "Honda Civic",
-      "version": "EXL",
+      "model": "X1 XDRIVE28I 3.0",
+      "version": "Vivace",
+      "brand": 2,
       "condition": 1,
-      "certified": true,
+      "certified": false,
       "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
-      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
+      "price": 79000,
+      "year": 2016,
+      "description": "Fiat uno...",
+      "mileage": 69764,
+      "carType": 1,
+      "color": 1,
       "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/20224518244165.jpeg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224518243065.jpeg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224518242065.jpeg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224518245065.jpeg"
+
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
+      "fuel": [3, 0, 1]
     },
     {
       "id": 8,
-      "model": "Honda Civic",
+      "model": "X6 M 4.4 V8",
       "version": "EXL",
-      "condition": 1,
+      "condition": 0,
       "certified": true,
       "location": 0,
-      "brand": 1,
-      "year": 2022,
+      "brand": 2,
+      "year": 2018,
       "price": 137.608,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
+      "mileage": 280000,
+      "carType": 3,
+      "color": 0,
       "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/202232210264421.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202232210265021.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202232210265621.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20223221027121.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
+      "fuel": [3, 0, 1]
     },
     {
       "id": 9,
-      "model": "Honda Civic",
+      "model": "X6 XDRIVE35I 3.0",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 1,
-      "year": 2022,
+      "brand": 2,
+      "year": 2016,
       "price": 137.608,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
+      "mileage": 84000,
+      "carType": 3,
+      "color": 9,
       "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+        "https://revistacarro.com.br/wp-content/uploads/2021/09/novo-honda-city-2022_1.jpg",
+        "https://revistacarro.com.br/wp-content/uploads/2021/09/novo-honda-city-2022_2.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
+      "fuel": [6, 7]
     },
     {
       "id": 10,
-      "model": "Honda Civic",
+      "model": "A4 PRESTIGE 2.0 TFSI",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
+      "brand": 0,
+      "year": 2021,
+      "price": 248608,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
+      "mileage": 2300,
+      "carType": 0,
+      "color": 1,
       "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/202242515454630.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202242515451330.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202242515462730.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
+      "fuel": [6, 7]
     },
     {
       "id": 11,
-      "model": "Honda Civic",
+      "model": "A4 2.4 V6",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
+      "brand": 0,
+      "year": 2015,
+      "price": 27000,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
+      "mileage": 102000,
+      "carType": 0,
+      "color": 2,
       "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/20224131754345.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224131763845.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/2022413177745.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224131774345.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
+      "fuel": [6, 7]
     },
     {
       "id": 12,
-      "model": "Honda Civic",
+      "model": "A3 SEDAN AMBIENTE 1.4 TFSI",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
+      "brand": 0,
+      "year": 2018,
+      "price": 122500,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
       "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
+      "carType": 0,
+      "color": 11,
       "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/202242222311957.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202242222314157.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202242222315057.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224222232457.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
+      "fuel": [6, 7]
     },
     {
       "id": 13,
-      "model": "Honda Civic",
+      "model": "Q3 PRESTIGE PLUS 1.4 TFSI",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
+      "brand": 0,
+      "year": 2019,
+      "price": 162900,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
+      "mileage": 31600,
+      "carType": 1,
+      "color": 2,
       "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/2022471735814.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224717351414.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224717351914.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224717352514.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
-    },
-    {
-      "id": 14,
-      "model": "Honda Civic",
-      "version": "EXL",
-      "condition": 1,
-      "certified": true,
-      "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
-      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
-      "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
-      ],
-      "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
-    },
-    {
-      "id": 15,
-      "model": "Honda Civic",
-      "version": "EXL",
-      "condition": 1,
-      "certified": true,
-      "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
-      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
-      "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
-      ],
-      "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
-    },
-    {
-      "id": 16,
-      "model": "Honda Civic",
-      "version": "EXL",
-      "condition": 1,
-      "certified": true,
-      "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
-      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
-      "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
-      ],
-      "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
-    },
-    {
-      "id": 17,
-      "model": "Honda Civic",
-      "version": "EXL",
-      "condition": 1,
-      "certified": true,
-      "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
-      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
-      "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
-      ],
-      "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
-    },
-    {
-      "id": 18,
-      "model": "Honda Civic",
-      "version": "EXL",
-      "condition": 1,
-      "certified": true,
-      "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
-      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
-      "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
-      ],
-      "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
-    },
-    {
-      "id": 19,
-      "model": "Honda Civic",
-      "version": "EXL",
-      "condition": 1,
-      "certified": true,
-      "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
-      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
-      "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
-      ],
-      "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
-    },
-    {
-      "id": 20,
-      "model": "Honda Civic",
-      "version": "EXL",
-      "condition": 1,
-      "certified": true,
-      "location": 0,
-      "brand": 1,
-      "year": 2022,
-      "price": 137.608,
-      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
-      "carType": "Coupe",
-      "color": "Preto",
-      "photos": [
-        "https://quatrorodas.abril.com.br/wp-content/uploads/2022/04/honda-civic-seda-e1650568274124.jpg"
-      ],
-      "additional": [0, 1],
-      "fuel": [0, 1, 4, 6, 7]
+      "fuel": [6, 7]
     }
   ]
 }
