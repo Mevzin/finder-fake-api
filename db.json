@@ -5,10 +5,6 @@
       "value": "Audi"
     },
     {
-      "id": 1,
-      "value": "Aston Martin"
-    },
-    {
       "id": 2,
       "value": "BMW"
     },
@@ -17,36 +13,8 @@
       "value": "Mercedes Benz"
     },
     {
-      "id": 4,
-      "value": "Lexus"
-    },
-    {
-      "id": 5,
-      "value": "Mitsubishi"
-    },
-    {
-      "id": 6,
-      "value": "Mazda"
-    },
-    {
-      "id": 7,
-      "value": "Hyundai"
-    },
-    {
       "id": 8,
       "value": "Toyota"
-    },
-    {
-      "id": 9,
-      "value": "Porsche"
-    },
-    {
-      "id": 10,
-      "value": "Ferrari"
-    },
-    {
-      "id": 11,
-      "value": "Jaguar"
     },
     {
       "id": 12,
@@ -59,56 +27,16 @@
     {
       "id": 14,
       "value": "Fiat"
-    },
-    {
-      "id": 15,
-      "value": "Volkswagen"
-    },
-    {
-      "id": 16,
-      "value": "Dodge"
-    },
-    {
-      "id": 17,
-      "value": "Kia"
-    },
-    {
-      "id": 18,
-      "value": "Land Rover"
-    },
-    {
-      "id": 19,
-      "value": "Nissan"
-    },
-    {
-      "id": 20,
-      "value": "Subaru"
-    },
-    {
-      "id": 21,
-      "value": "Lamborghini"
-    },
-    {
-      "id": 22,
-      "value": "Volvo"
-    },
-    {
-      "id": 23,
-      "value": "Honda"
-    },
-    {
-      "id": 24,
-      "value": "Peugeot"
     }
   ],
   "condition": [
     {
       "id": 0,
-      "value": "Novo"
+      "value": "novo"
     },
     {
       "id": 1,
-      "value": "Usado"
+      "value": "usado"
     }
   ],
   "colors": [
@@ -161,7 +89,7 @@
       "value": "Céu Azul"
     }
   ],
-  "year": [
+  "years": [
     {
       "id": 2014,
       "value": 2014
@@ -384,6 +312,7 @@
       "mileage": 69764,
       "carType": 2,
       "color": 9,
+      "transmission": 2,
       "photos": [
         "https://cdn.motor1.com/images/mgl/2NO4RB/s1/visual-do-fiat-uno-ciao-traz-detalhes-na-lateral.jpg",
         "https://cdn.motor1.com/images/mgl/P3GB6r/s1/visual-do-fiat-uno-ciao-traz-emblema-na-traseira.jpg",
@@ -391,7 +320,7 @@
         "https://cdn.motor1.com/images/mgl/W81KR6/s1/painel-do-fiat-uno-ciao-2021.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [3, 0, 1]
+      "fuel": 1
     },
     {
       "id": 1,
@@ -402,17 +331,18 @@
       "location": 0,
       "brand": 23,
       "year": 2022,
-      "price": 137.608,
+      "price": 137608,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
       "mileage": 0,
       "carType": 0,
       "color": 0,
+      "transmission": 2,
       "photos": [
         "https://cdn.motor1.com/images/mgl/Gxe7b/s1/2022-honda-civic-mugen-front-view.jpg",
         "https://cdn.motor1.com/images/mgl/RGK8x/s1/2022-honda-civic-mugen-rear-view.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [3, 0, 1]
+      "fuel": 1
     },
     {
       "id": 2,
@@ -423,17 +353,18 @@
       "location": 0,
       "brand": 23,
       "year": 2022,
-      "price": 137.608,
+      "price": 137608,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
       "mileage": 0,
       "carType": "Coupe",
       "color": 9,
+      "transmission": 2,
       "photos": [
         "https://revistacarro.com.br/wp-content/uploads/2021/09/novo-honda-city-2022_1.jpg",
         "https://revistacarro.com.br/wp-content/uploads/2021/09/novo-honda-city-2022_2.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [6, 7]
+      "fuel": 1
     },
     {
       "id": 3,
@@ -449,13 +380,14 @@
       "mileage": 2300,
       "carType": 0,
       "color": 1,
+      "transmission": 2,
       "photos": [
         "https://www.carrosnaweb.com.br/imagensclassif/202242515454630.jpg",
         "https://www.carrosnaweb.com.br/imagensclassif/202242515451330.jpg",
         "https://www.carrosnaweb.com.br/imagensclassif/202242515462730.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [6, 7]
+      "fuel": 1
     },
     {
       "id": 4,
@@ -471,6 +403,7 @@
       "mileage": 102000,
       "carType": 0,
       "color": 2,
+      "transmission": 2,
       "photos": [
         "https://www.carrosnaweb.com.br/imagensclassif/20224131754345.jpg",
         "https://www.carrosnaweb.com.br/imagensclassif/20224131763845.jpg",
@@ -478,7 +411,7 @@
         "https://www.carrosnaweb.com.br/imagensclassif/20224131774345.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [6, 7]
+      "fuel": 1
     },
     {
       "id": 5,
@@ -494,6 +427,7 @@
       "mileage": 0,
       "carType": 0,
       "color": 11,
+      "transmission": 2,
       "photos": [
         "https://www.carrosnaweb.com.br/imagensclassif/202242222311957.jpg",
         "https://www.carrosnaweb.com.br/imagensclassif/202242222314157.jpg",
@@ -501,7 +435,7 @@
         "https://www.carrosnaweb.com.br/imagensclassif/20224222232457.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [6, 7]
+      "fuel": 1
     },
     {
       "id": 6,
@@ -517,6 +451,7 @@
       "mileage": 31600,
       "carType": 1,
       "color": 2,
+      "transmission": 2,
       "photos": [
         "https://www.carrosnaweb.com.br/imagensclassif/2022471735814.jpg",
         "https://www.carrosnaweb.com.br/imagensclassif/20224717351414.jpg",
@@ -524,7 +459,7 @@
         "https://www.carrosnaweb.com.br/imagensclassif/20224717352514.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [6, 7]
+      "fuel": 1
     },
     {
       "id": 7,
@@ -540,6 +475,7 @@
       "mileage": 69764,
       "carType": 1,
       "color": 1,
+      "transmission": 2,
       "photos": [
         "https://www.carrosnaweb.com.br/imagensclassif/20224518244165.jpeg",
         "https://www.carrosnaweb.com.br/imagensclassif/20224518243065.jpeg",
@@ -548,7 +484,7 @@
 
       ],
       "additional": [0, 1],
-      "fuel": [3, 0, 1]
+      "fuel": 1
     },
     {
       "id": 8,
@@ -564,6 +500,7 @@
       "mileage": 280000,
       "carType": 3,
       "color": 0,
+      "transmission": 2,
       "photos": [
         "https://www.carrosnaweb.com.br/imagensclassif/202232210264421.jpg",
         "https://www.carrosnaweb.com.br/imagensclassif/202232210265021.jpg",
@@ -571,7 +508,7 @@
         "https://www.carrosnaweb.com.br/imagensclassif/20223221027121.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [3, 0, 1]
+      "fuel": 1
     },
     {
       "id": 9,
@@ -587,103 +524,106 @@
       "mileage": 84000,
       "carType": 3,
       "color": 9,
+      "transmission": 2,
       "photos": [
-        "https://revistacarro.com.br/wp-content/uploads/2021/09/novo-honda-city-2022_1.jpg",
-        "https://revistacarro.com.br/wp-content/uploads/2021/09/novo-honda-city-2022_2.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/2022441012714.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224410121414.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224410121914.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20224410122414.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [6, 7]
+      "fuel": 1
     },
     {
       "id": 10,
-      "model": "A4 PRESTIGE 2.0 TFSI",
+      "model": "C200 AVANTGARDE 2.0",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 0,
-      "year": 2021,
+      "brand": 3,
+      "year": 2016,
       "price": 248608,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
       "mileage": 2300,
       "carType": 0,
       "color": 1,
+      "transmission": 2,
       "photos": [
-        "https://www.carrosnaweb.com.br/imagensclassif/202242515454630.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/202242515451330.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/202242515462730.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/202261310361434.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202261310353734.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202261310355034.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [6, 7]
+      "fuel": 1
     },
     {
       "id": 11,
-      "model": "A4 2.4 V6",
+      "model": "C180 AVANTGARDE 1.6 TURBO",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 0,
-      "year": 2015,
-      "price": 27000,
+      "brand": 3,
+      "year": 2016,
+      "price": 116900,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 102000,
-      "carType": 0,
+      "mileage": 83000,
+      "carType": 4,
       "color": 2,
+      "transmission": 2,
       "photos": [
-        "https://www.carrosnaweb.com.br/imagensclassif/20224131754345.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/20224131763845.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/2022413177745.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/20224131774345.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/202253110262190.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [6, 7]
+      "fuel": 1
     },
     {
       "id": 12,
-      "model": "A3 SEDAN AMBIENTE 1.4 TFSI",
+      "model": "C180 CLASSIC 1.8 CGI",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
       "brand": 0,
-      "year": 2018,
-      "price": 122500,
+      "year": 2020,
+      "price": 77990,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
-      "mileage": 0,
+      "mileage": 34000,
       "carType": 0,
-      "color": 11,
+      "color": 1,
+      "transmission": 2,
       "photos": [
-        "https://www.carrosnaweb.com.br/imagensclassif/202242222311957.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/202242222314157.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/202242222315057.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/20224222232457.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/20226232142444.jpeg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20226232143844.jpeg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20226232145044.jpeg"  
       ],
       "additional": [0, 1],
-      "fuel": [6, 7]
+      "fuel": 1
     },
     {
       "id": 13,
-      "model": "Q3 PRESTIGE PLUS 1.4 TFSI",
+      "model": "CLASSE A 160 CLASSIC",
       "version": "EXL",
       "condition": 1,
-      "certified": true,
+      "certified": false,
       "location": 0,
-      "brand": 0,
-      "year": 2019,
-      "price": 162900,
+      "brand": 3,
+      "year": 2015,
+      "price": 17000,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
       "mileage": 31600,
-      "carType": 1,
+      "carType": 9,
       "color": 2,
+      "transmission": 1,
       "photos": [
-        "https://www.carrosnaweb.com.br/imagensclassif/2022471735814.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/20224717351414.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/20224717351914.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/20224717352514.jpg"
+        "https://www.carrosnaweb.com.br/imagensclassif/202252017105662.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/20225201711462.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202252017111262.jpg",
+        "https://www.carrosnaweb.com.br/imagensclassif/202252017112462.jpg"
       ],
       "additional": [0, 1],
-      "fuel": [6, 7]
+      "fuel": 1
     }
   ]
 }
