@@ -356,7 +356,7 @@
       "price": 137608,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
       "mileage": 0,
-      "carType": "Coupe",
+      "carType": 4,
       "color": 9,
       "transmission": 2,
       "photos": [
@@ -382,9 +382,11 @@
       "color": 1,
       "transmission": 2,
       "photos": [
-        "https://www.carrosnaweb.com.br/imagensclassif/202242515454630.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/202242515451330.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/202242515462730.jpg"
+        "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2022/202207/20220701/audi-a4-2.0-tfsi-ambiente-gasolina-4p-s-tronic-wmimagem16332025838.jpg?s=fill&w=1920&h=1440&q=75",
+        "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2022/202207/20220701/audi-a4-2.0-tfsi-ambiente-gasolina-4p-s-tronic-wmimagem16332064922.jpg?s=fill&w=1920&h=1440&q=75",
+        "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2022/202207/20220701/audi-a4-2.0-tfsi-ambiente-gasolina-4p-s-tronic-wmimagem16332125826.jpg?s=fill&w=1920&h=1440&q=75",
+        "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2022/202207/20220701/audi-a4-2.0-tfsi-ambiente-gasolina-4p-s-tronic-wmimagem16332222710.jpg?s=fill&w=1920&h=1440&q=75"
+
       ],
       "additional": [0, 1],
       "fuel": 1
