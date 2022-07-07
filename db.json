@@ -368,24 +368,25 @@
     },
     {
       "id": 3,
-      "model": "A4 PRESTIGE 2.0 TFSI",
+      "model": "Audi A3 Sedan 1.4",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
       "brand": 0,
-      "year": 2021,
-      "price": 248608,
+      "year": 2015,
+      "price": 143000,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
       "mileage": 2300,
       "carType": 0,
-      "color": 1,
+      "color": 2,
       "transmission": 2,
       "photos": [
         "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2022/202207/20220701/audi-a4-2.0-tfsi-ambiente-gasolina-4p-s-tronic-wmimagem16332025838.jpg?s=fill&w=1920&h=1440&q=75",
         "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2022/202207/20220701/audi-a4-2.0-tfsi-ambiente-gasolina-4p-s-tronic-wmimagem16332064922.jpg?s=fill&w=1920&h=1440&q=75",
         "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2022/202207/20220701/audi-a4-2.0-tfsi-ambiente-gasolina-4p-s-tronic-wmimagem16332125826.jpg?s=fill&w=1920&h=1440&q=75",
-        "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2022/202207/20220701/audi-a4-2.0-tfsi-ambiente-gasolina-4p-s-tronic-wmimagem16332222710.jpg?s=fill&w=1920&h=1440&q=75"
+        "https://image.webmotors.com.br/_fotos/anunciousados/gigante/2022/202207/20220701/audi-a4-2.0-tfsi-ambiente-gasolina-4p-s-tronic-wmimagem16332222710.jpg?s=fill&w=1920&h=1440&q=75",
+        "https://img2.icarros.com/dbimg/imgadicionalanuncio/5/252548136_1.webp"
 
       ],
       "additional": [0, 1],
