@@ -532,12 +532,12 @@
     },
     {
       "id": 10,
-      "model": "C200 AVANTGARDE 2.0",
+      "model": "BMW Série 2 225i Active",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 3,
+      "brand": 2,
       "year": 2016,
       "price": 248608,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
@@ -546,21 +546,22 @@
       "color": 1,
       "transmission": 2,
       "photos": [
-        "https://www.carrosnaweb.com.br/imagensclassif/202261310361434.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/202261310353734.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/202261310355034.jpg"
+        "https://img1.icarros.com/dbimg/imgadicionalanuncio/5/256110702_1.webp",
+        "https://img1.icarros.com/dbimg/imgadicionalanuncio/5/256110716_1.webp",
+        "https://img1.icarros.com/dbimg/imgadicionalanuncio/5/256110729_1.webp",
+        "https://img1.icarros.com/dbimg/imgadicionalanuncio/5/256110740_1.webp"
       ],
       "additional": [0, 1],
       "fuel": 1
     },
     {
       "id": 11,
-      "model": "C180 AVANTGARDE 1.6 TURBO",
+      "model": "BMW Série 3 320i Sport",
       "version": "EXL",
       "condition": 1,
       "certified": true,
       "location": 0,
-      "brand": 3,
+      "brand": 2,
       "year": 2016,
       "price": 116900,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
@@ -569,19 +570,21 @@
       "color": 2,
       "transmission": 2,
       "photos": [
-        "https://www.carrosnaweb.com.br/imagensclassif/202253110262190.jpg"
+        "https://img0.icarros.com/dbimg/imgadicionalanuncio/5/249609644_1.webp",
+        "https://img0.icarros.com/dbimg/imgadicionalanuncio/5/249609654_1.webp",
+        "https://img0.icarros.com/dbimg/imgadicionalanuncio/5/249609666_1.webp"
       ],
       "additional": [0, 1],
       "fuel": 1
     },
     {
       "id": 12,
-      "model": "C180 CLASSIC 1.8 CGI",
+      "model": "Mercedes-Benz GLA 200 Style",
       "version": "EXL",
-      "condition": 1,
+      "condition": 0,
       "certified": true,
       "location": 0,
-      "brand": 0,
+      "brand": 3,
       "year": 2020,
       "price": 77990,
       "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
@@ -590,19 +593,19 @@
       "color": 1,
       "transmission": 2,
       "photos": [
-        "https://www.carrosnaweb.com.br/imagensclassif/20226232142444.jpeg",
-        "https://www.carrosnaweb.com.br/imagensclassif/20226232143844.jpeg",
-        "https://www.carrosnaweb.com.br/imagensclassif/20226232145044.jpeg"  
+        "https://img1.icarros.com/dbimg/imgadicionalanuncio/5/248249091_1.webp",
+        "https://img1.icarros.com/dbimg/imgadicionalanuncio/5/248249104_1.webp",
+        "https://img1.icarros.com/dbimg/imgadicionalanuncio/5/248249115_1.webp"
       ],
       "additional": [0, 1],
       "fuel": 1
     },
     {
       "id": 13,
-      "model": "CLASSE A 160 CLASSIC",
+      "model": "Mercedes-Benz Classe C C 180",
       "version": "EXL",
-      "condition": 1,
-      "certified": false,
+      "condition": 0,
+      "certified": true,
       "location": 0,
       "brand": 3,
       "year": 2015,
@@ -613,10 +616,10 @@
       "color": 2,
       "transmission": 1,
       "photos": [
-        "https://www.carrosnaweb.com.br/imagensclassif/202252017105662.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/20225201711462.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/202252017111262.jpg",
-        "https://www.carrosnaweb.com.br/imagensclassif/202252017112462.jpg"
+        "https://img2.icarros.com/dbimg/imgadicionalanuncio/5/249026073_1.webp",
+        "https://img2.icarros.com/dbimg/imgadicionalanuncio/5/249026085_1.webp",
+        "https://img2.icarros.com/dbimg/imgadicionalanuncio/5/249026100_1.webp",
+        "https://img2.icarros.com/dbimg/imgadicionalanuncio/5/249026111_1.webp"
       ],
       "additional": [0, 1],
       "fuel": 1
