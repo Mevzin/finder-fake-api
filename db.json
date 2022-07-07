@@ -813,6 +813,77 @@
       ],
       "additional": [0, 1],
       "fuel": 1
+    },
+    {
+      "id": 22,
+      "model": "Fiat Uno 1.0",
+      "version": "EXL",
+      "condition": 0,
+      "certified": true,
+      "location": 0,
+      "brand": 14,
+      "year": 2015,
+      "price": 17000,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 31600,
+      "carType": 9,
+      "color": 2,
+      "transmission": 1,
+      "photos": [
+        "https://img1.icarros.com/dbimg/imgadicionalanuncio/5/256900575_1.webp",
+        "https://img1.icarros.com/dbimg/imgadicionalanuncio/5/256900585_1.webp",
+        "https://img1.icarros.com/dbimg/imgadicionalanuncio/5/256900593_1.webp",
+        "https://img1.icarros.com/dbimg/imgadicionalanuncio/5/256900602_1.webp"
+      ],
+      "additional": [0, 1],
+      "fuel": 1
+    },
+    {
+      "id": 23,
+      "model": "Fiat Mobi 1.0",
+      "version": "EXL",
+      "condition": 0,
+      "certified": true,
+      "location": 0,
+      "brand": 14,
+      "year": 2020,
+      "price": 77990,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 34000,
+      "carType": 0,
+      "color": 1,
+      "transmission": 2,
+      "photos": [
+        "https://img0.icarros.com/dbimg/imgadicionalanuncio/5/239046452_1.webp",
+        "https://img0.icarros.com/dbimg/imgadicionalanuncio/5/239046453_1.webp",
+        "https://img0.icarros.com/dbimg/imgadicionalanuncio/5/239046455_1.webp",
+        "https://img0.icarros.com/dbimg/imgadicionalanuncio/5/239046456_1.webp"
+      ],
+      "additional": [0, 1],
+      "fuel": 1
+    },
+    {
+      "id": 24,
+      "model": "Fiat Strada Cabine Plus Endurance",
+      "version": "EXL",
+      "condition": 1,
+      "certified": true,
+      "location": 0,
+      "brand": 14,
+      "year": 2021,
+      "price": 17000,
+      "description": "Carro em ótimo estado, zero de fabrica, já vem com vidro fume e rodas de liga leve. Faz 9km/l.",
+      "mileage": 31600,
+      "carType": 9,
+      "color": 2,
+      "transmission": 1,
+      "photos": [
+        "https://img0.icarros.com/dbimg/imgadicionalanuncio/5/251142532_1.webp",
+        "https://img0.icarros.com/dbimg/imgadicionalanuncio/5/251142540_1.webp",
+        "https://img0.icarros.com/dbimg/imgadicionalanuncio/5/251142550_1.webp"
+      ],
+      "additional": [0, 1],
+      "fuel": 1
     }
   ]
 }
